@@ -1,5 +1,24 @@
 {
   "dependencies": {
+    "http-signature": "^1.2.0",
     "jssha": "^2.3.1"
-  }
+  },
+  "name": "oci-node-js",
+  "version": "1.0.0",
+  "description": "Node JS library for interacting with Oracle Cloud Infrastracture services.\"",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dblanchard13/oci-node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dblanchard13/oci-node-js/issues"
+  },
+  "homepage": "https://github.com/dblanchard13/oci-node-js#readme"
 }
